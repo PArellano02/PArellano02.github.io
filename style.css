@@ -1,3 +1,4 @@
 H1{background-color: rgba(233, 210, 4, 0.839);}
-p{background-color:beige;}
 body{background-image: url(https://lh3.googleusercontent.com/gR3e_NczPKF_nlecYbJicRl6voTe2Dx6tuoLnyZfdNVRoEg3N0iS37JFYo6_L3UEuTZvfVfMfGDOiWtSWoMFncRg6ppSldVQNU3d5hDSLCzPobUYNpUNtvz1dzCPCbo2ATR0ap8xdBhvcP5UVocncg_zH23LPtBGig-v9rgHXv-gxgA0zMEEHeTMNTkycb_2TLV68qwKbYCu2_Ub8n7S2Ln-wG2rkZMwoCmQZv5VUUuHAJJ_4j3DaZast_IIIjucwLohsh7xul401yl6Nff7jia1K2gabRW3CsKt2iyd6mktQsLF9At2f7nj8I-gHFhEwqq4S2aB8tIPCsrS_YR8bjwLB8IfENpNm_ZwkG6QcbRv7r92mJu_Ja3M2XBhGRTKJiJ9OmPtCUeIAy4lAnTxJTSWxFvgP8LrUFYNXOW2BAuMTLDFHD1czhGa7nTrSOFkN4h-CqxWKzCuIP2R9Jaocz7y91GT9yMaKcJbvjmRiKj--pomXtBZywT_OlsSz3JNBYOKGxr7ORQBXzWBZFJ0Ut-qiIId21sd59_ez8VToPRpJvgZEldSy6GG61-kIR24wiUrkmug0TlFXtHehv1k8lMiCZZRZWmPFxQZQj2JztMvaMC-i28GOVjjWuuoINoqOEP1CBeTKZdsV9vvq1vcw21GYUV29oEP8TncrPG6V-yHVfjWcFOsg1ARXR6UgmZBba7q0lAJYZ3jCcTFIbGyFJuTMwVlKXEMjntjTNl29e3pfLo2zyCvTAvY9kZbpw=w2254-h1630-no?authuser=0); size:100%}
+li{background-color: rgba(0, 128, 0, 0.706);text-align: center; display: inline-block;width:32%; font-size: 30px;}
+li:hover{background-color: aqua;}
