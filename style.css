@@ -3,3 +3,5 @@ body{margin-left: 0px;margin-right: 0px;margin-top: 0px;}
 p{background-color: beige; text-align: center ; background-size: 50%; }
 li{background-color: rgba(0, 128, 0, 0.706);text-align: center; display: inline-block;width:32%; font-size: 30px;}
 li:hover{background-color: aqua;}
+img{size: 50px;}
+a{color:blueviolet}
