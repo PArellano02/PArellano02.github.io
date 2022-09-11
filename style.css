@@ -1,7 +1,9 @@
 H1{background-color: rgba(233, 210, 4, 0.839);}
-body{margin-left: 0px;margin-right: 0px;margin-top: 0px;}
+body{margin-left: 0px;margin-right: 0px;margin-top: 0px; background-color: beige;}
 p{background-color: beige; text-align: center ; background-size: 50%; }
 li{background-color: rgba(0, 128, 0, 0.706);text-align: center; display: inline-block;width:32%; font-size: 30px;}
 li:hover{background-color: aqua;}
+.cmw{background-color: burlywood;}
 img{size: 50px;}
 a{color:blueviolet}
+ul{background-color: green;}
