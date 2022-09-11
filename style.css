@@ -13,6 +13,8 @@ li:hover{background-color: aqua;}
 
 .italics{font-style: italic;}
 
+.par{ font-size: larger;}
+
 #hds{background-color:crimson;}
 @media only screen and (max-width: 600px) {
     body{ 
